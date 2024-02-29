@@ -1,0 +1,4 @@
+---
+# defaults file for test_role
+test_path: "/home/ilya/ansible/08-ansible-06-module/ansible/test.txt"
+test_content: "TEST MODULE"

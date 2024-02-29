@@ -1,0 +1,6 @@
+---
+# tasks file for test_role
+- name: Test module
+  my_own_module:
+    path: "{{ test_path }}"
+    content: "{{ test_content }}"
